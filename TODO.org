@@ -1,0 +1,5 @@
+#+TITLE: App todos
+
+* TODO search in npm registry and output
+* TODO single page to view needed info
+* TODO save packages info to cache
